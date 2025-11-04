@@ -1,4 +1,4 @@
-## 🏎️ F1-Podium Predictions: Azerbaijan GP 202
+# 🏎️ F1-Podium Predictions: Azerbaijan GP 2025
 
 # 📌Project Overview
 This project uses machine learning to predict the top finishers for the Azerbaijan GP 2025 by combining race telemetry, weather forecasts, quali results and the latest team performance data. A predictive model is used for forecasting race outcomes with accuracy which is measured by the MAE.
