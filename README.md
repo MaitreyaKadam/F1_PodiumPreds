@@ -9,9 +9,12 @@ This project uses machine learning to predict the top finishers for the Azerbaij
 - Feature engineering which includes clean air race pace, sector averages, and position change history.
 <img width="690" height="390" alt="image" src="https://github.com/user-attachments/assets/ab0d5917-0414-4840-a202-f3aba64addbf" />
 
+We all expect qualifying position to be the dominant feature for winning a race. However, the model tells a more nuanced story in which clean-air race pace emerged as the strongest single, followed by sector consistency and position change history. This indicates that raw single-lap speed matters less than the ability to sustain pace over a full race distance.
+
 
 # 🧪 Best Model
 <img width="515" height="80" alt="image" src="https://github.com/user-attachments/assets/df7c5640-9925-4d87-91f3-aade39016337" />
+
 
 
 # 📈 Predicted Podium for Azerbaijan GP 2025
