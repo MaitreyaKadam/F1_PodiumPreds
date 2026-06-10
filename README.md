@@ -14,6 +14,7 @@ We all expect qualifying time to be the dominant feature for winning a race. How
 
 # 🧪 Best Model
 <img width="515" height="80" alt="image" src="https://github.com/user-attachments/assets/df7c5640-9925-4d87-91f3-aade39016337" />
+
 The best performing model achieved an MAE of 0.41 seconds. In practical terms, this means the predicted finishing position is off by 0.41 seconds.
 For a sport where the difference between P3 and P4 is the difference between a podium and nothing.
 
@@ -21,6 +22,7 @@ For a sport where the difference between P3 and P4 is the difference between a p
 
 # 📈 Predicted Podium for Azerbaijan GP 2025
 <img width="244" height="108" alt="image" src="https://github.com/user-attachments/assets/4cceaddd-4bdd-4e6c-ae1a-c7c42fcb0454" />
+
 Crucially, the selected model correctly identified all 3 podium finishers along with it's top 10 finishers, it's a kind of result that would give a strategist or a betting analyst a genuine edge.
 
 #  📈 Top 10 Finishers for Azerbaijan GP 2025
